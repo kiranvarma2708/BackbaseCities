@@ -7,7 +7,6 @@ Can search for the cities from searchview.
 Implementing/Integrating unit test cases using JUnit and Espresso.
 
 # Tasks
-Download the list of cities from [here](cities.json).
 * Be able to filter the results by a given prefix string, following these requirements:
      * Follow the prefix definition specified in the clarifications section below.
      * Optimise for fast searches. Loading time of the app is not so important.
