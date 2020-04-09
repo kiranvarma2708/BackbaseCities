@@ -1,0 +1,21 @@
+<resources>
+    <string name="google_maps_key">AIzaSyAQtetdaHOHk-MwX045G9Nsn7xh4FfcUEw</string>
+    <string name="app_name">Backbase Cities</string>
+    <string name="string_back">Back</string>
+    <string name="string_close">Close</string>
+    <string name="map_fragment">map_fragment</string>
+    <string name="cities_fragment_list_tag">cities_fragment_list_tag</string>
+    <string name="string_exception">"Exception"</string>
+    <string name="string_about_info">About Info</string>
+    <string name="string_search">Search</string>
+    <string name="loading_failed">Loading Failed</string>
+    <string name="about">About:</string>
+    <string name="info_id">ID:</string>
+    <string name="info_location">Location:</string>
+    <string name="info_name">City Name:</string>
+    <string name="info_country">Country:</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="backbase">Backbase</string>
+    <string name="loading_data">Loading cities, please wait...</string>
+
+</resources>
